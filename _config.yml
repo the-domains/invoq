@@ -1,0 +1,28 @@
+name: Invoq
+favicon: null
+layout_spectrum: 0.9478426892310381
+typography_spectrum: 0.7228796386625618
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.26546629541553557
+  lightness: 0.9001286749262363
+  saturation: 0.8930755411274731
+  rhythmicContrast: 0.25340964435599744
+purpose: []
